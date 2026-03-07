@@ -89,4 +89,5 @@ Through this project, I gained hands-on experience in:
 ## Author
 
 Aditya Bathla
+
 Aspiring to have a career in Business Analytics with current knowledge in SQL and databases
