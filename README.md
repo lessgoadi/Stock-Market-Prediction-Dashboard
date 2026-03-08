@@ -83,6 +83,28 @@ Possible future enhancements for this project include:
 * Portfolio performance tracking
 * Risk and volatility analysis
 
+## Results
+
+The analysis showed noticeable differences in stock price trends among Apple, Microsoft, Google, and Netflix.
+
+Some companies displayed higher stock prices on average, indicating stronger market valuation.
+
+Trading volume varied across companies, reflecting different levels of investor activity.
+
+Volatility analysis highlighted periods where stock prices fluctuated significantly.
+
+The scatter plot helped visualize the relationship between trading volume and stock price movements.
+
+## Conclusion
+
+Data visualization helped transform raw stock market data into meaningful insights.
+
+Interactive dashboards built using Tableau made it easier to compare company performance.
+
+The analysis demonstrated how visual analytics can support financial monitoring and decision-making.
+
+Overall, the project highlights the importance of dashboards in simplifying complex financial data for business analysis.
+
 ## 👤 Author
 
 **Aditya Bathla**
