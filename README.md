@@ -1,11 +1,9 @@
 # 📈 Stock Market Analysis & Prediction Dashboard
 
 ## 📌 Project Overview
+This project focuses on analyzing the stock market performance of four major technology companies — Apple, Microsoft, Google, and Netflix. The objective was to explore historical stock price data and build an interactive dashboard that helps visualize trends, price movements, and trading activity.
 
-This project focuses on analyzing historical stock market data and building a dashboard to visualize trends and potential price movements. The goal of the project is to transform raw financial data into meaningful insights that can support better decision-making for investors and analysts.
-
-The dashboard helps users explore stock price trends, understand market behavior, and view predicted future price movements based on historical patterns.
-
+As a business analyst exercise, the goal was to transform raw financial data into meaningful insights using data visualization techniques. The dashboard allows users to quickly compare company performance, understand volatility patterns, and observe how trading volume relates to stock price changes.
 ## 🎯 Business Objective
 
 Stock markets generate large volumes of data every day. Without proper analysis, it can be difficult to identify trends or opportunities.
